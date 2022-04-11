@@ -1,2 +1,2 @@
-# How-to-Play-Wordle
+# Wordle-Lab
 Wordle solver and strategy tester.

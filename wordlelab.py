@@ -14,7 +14,7 @@ import requests
 BEST = "Gek6f2.2a.1 slate"
 CHANCES = 6
 DEBUG = False
-LATIN = "'abcdefghijklmnopqrstuvwxyz"
+LATIN = "abcdefghijklmnopqrstuvwxyz"
 
 
 def debug(message, variable=None):

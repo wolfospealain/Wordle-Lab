@@ -164,7 +164,9 @@ The best start word from the complete set of allowable words in *Wordle* is **CA
 
 But, assuming that we are playing with only the words in the *Wordle* solution list (also the more obvious words), the **best start word is SLATE**, the word with the highest ranking combination of letters in probability of appearing green, and scoring an average of 3.59 with 100% success.
 
-This has the same letters as [Barry Smyth](https://towardsdatascience.com/what-i-learned-from-playing-more-than-a-million-games-of-wordle-7b69a40dbfdb)'s **TALES**, which scores 3.64, but with only 99.96% success, and remember that there are no plurals in *Wordle* solutions. Similarly, **LEAST**, **STALE** and **STEAL** score at 3.6, 3.62 and 3.65, with 99.96%, 100%, and 99.87% success, respectively. Position matters.
+This has the same letters as [Barry Smyth](https://towardsdatascience.com/what-i-learned-from-playing-more-than-a-million-games-of-wordle-7b69a40dbfdb)'s **TALES**, which scores 3.64, but with only 99.96% success, and remember that there are no plurals in *Wordle* solutions.
+
+Similarly, **LEAST**, **STALE** and **STEAL** score at 3.6, 3.62 and 3.65, with 99.96%, 100%, and 99.87% success, respectively. Position matters.
 
 ##### Vowels and Consonants
 

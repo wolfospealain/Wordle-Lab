@@ -128,7 +128,7 @@ And with word-counting, which may or may not be considered cheating, the program
 
 As humans also we are playing on average within the bounds of a good 3 and an acceptable 4. A 1 is a fluke and we should all get one once if we keep playing the same word. A 2 is just great luck. At 5 we're in trouble. And at 6 we're doomed.
 
-The world average, according to [analysis of Twitter](https://word.tips/wordle-wizards/), is 3.919 (calculated from tweets of successful games only). The very best country is Sweden at 3.72, the best city is Canberra, Australia, at 3.58; and the very worst is Arabic speaking Egypt but still not very far away at 4.43.
+The world average, according to [analysis of Twitter](https://word.tips/wordle-wizards/), is 3.919 (calculated from tweets of the 98% successful games only). The very best country is Sweden at 3.72, the best city is Canberra, Australia, at 3.58; and the very worst is Arabic speaking Egypt but still not very far away at 4.43.
 
 So if we don't also enjoy the perils of 5s and 6s, the mistakes and the words that seem impossible, the everyday 3s and 4s don't seem to prove much at all.
 

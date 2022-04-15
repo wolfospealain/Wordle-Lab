@@ -122,7 +122,7 @@ The average score for this code using an algorithm which obeys the strategy rule
 
 The best algorithm which selects words for their likelihood to whittle through the solution space, nets a 3.59 average.
 
-As humans that skills is our knowledge of letter combinations in the English language and guessing what to us are the most likely words - which if they match letters it is a success and if they don't match it is also a success by eliminating so many alternatives.
+As humans our skill is our instinctive knowledge of letter combinations in the English language and guessing what to us are the most likely words - which if they match letters it is a success and if they don't match it is also a success by eliminating so many alternatives.
 
 And with word-counting, which may or may not be considered cheating, the program nets a 3.37 average.
 

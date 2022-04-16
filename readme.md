@@ -4,7 +4,7 @@ A *Wordle* solver, dictionary utility, and strategy tester.
 
 ## Wordle Strategy
 
-For those who don't need, nor want, to read the code documentation below, here is the 13-point summary of the best<sup>a</sup> *Wordle* strategy:
+For those who don't need, nor want, to read the code documentation below, here is the 13-point summary of the best<sup>a</sup> *Wordle* strategy from 5,331,481 games played:
 
 1. The best start word is: **SLATE**.<sup>b</sup>
 
@@ -34,7 +34,7 @@ For those who don't need, nor want, to read the code documentation below, here i
 
 <sup>a</sup> The average score for the computer is 3.59 with an unbroken streak.
 
-<sup>b</sup> Still, as of 14th April 2022.
+<sup>b</sup> Still, as of 14th April 2022. The frequency of letters as words are removed from the game.
 
 ## About Wordle
 

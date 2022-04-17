@@ -68,6 +68,8 @@ Importantly:
 
 A secondary list of 10,663 extra words which are allowed but will never be solutions is also used. This list includes plurals and non-American spellings. You'll find TYRES (English spelling and also a plural) and TIRES (which is plural), and METRE and LITRE (which are English spelling), and LITER (which although American spelling, must just not make sense to the non-metric Americans). METER on the other hand has more meanings and is a solution.
 
+###### Streaks
+
 "A new WORDLE will be available each day!" https://www.nytimes.com/games/wordle/
 
 You must play everyday on the same device in order to maintain your streak.

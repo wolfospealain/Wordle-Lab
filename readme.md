@@ -156,7 +156,7 @@ The most successful play is to guess words with the most popular letters of the 
 
 #### Single Improper American
 
-The language of the solution list is American spelling only.
+The language of the solution list is American spelling only (although it does include some words from its British originas, such as LORRY, that confound Americans).
 
 There are no plurals made from words by adding S or ES. Plurals such as GEESE, TEETH and WOMEN do exist. 
 

@@ -64,7 +64,7 @@ Importantly:
 
 - Proper nouns and adjectives referring to names of people and places, normally capitalised, are not in the list.
 
-- And, the spellings are American. You will find words like COLOR, FAVOR, and METER.
+- And, the spellings are American. You will find words like COLOR, FAVOR, and METER. But you'll also find words from its British origins, such as LORRY.
 
 A secondary list of 10,663 extra words which are allowed but will never be solutions is also used. This list includes plurals and non-American spellings. You'll find TYRES (English spelling and also a plural) and TIRES (which is plural), and METRE and LITRE (which are English spelling), and LITER (which although American spelling, must just not make sense to the non-metric Americans). METER on the other hand has more meanings and is a solution.
 
@@ -156,7 +156,7 @@ The most successful play is to guess words with the most popular letters of the 
 
 #### Single Improper American
 
-The language of the solution list is American spelling only (although it does include some words from its British originas, such as LORRY, that confound Americans).
+The language of the solution list is American spelling only (although it does include some words from its British origins, such as LORRY, that confound Americans).
 
 There are no plurals made from words by adding S or ES. Plurals such as GEESE, TEETH and WOMEN do exist. 
 

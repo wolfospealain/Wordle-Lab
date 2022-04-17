@@ -34,7 +34,7 @@ For those who don't need, nor want, to read the code documentation below, here i
 
 <sup>a</sup> The average score for the computer is 3.59 with an unbroken streak (3.257 with word counting). The [Wordle Bot Leaderboard](https://freshman.dev/wordle/#/leaderboard) lists many program doing better - the top performing doing 3.4212. They use recursive tree searches to find guess words resulting in minimum sized groups of possible solution spaces, not analogous to human game play.
 
-<sup>b</sup> Still, as of 14th April 2022. The frequency of letters as words are removed from the game.
+<sup>b</sup> Still, as of 14th April 2022. The frequency of letters as words are removed from the game will change the best start word.
 
 ## About Wordle
 

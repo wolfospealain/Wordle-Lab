@@ -1,6 +1,6 @@
 # Wordle Lab
 
-A *Wordle* solver, dictionary utility, and strategy tester for human-style game play (computers play differently<sup>a</sup>).
+A *Wordle* solver, *Wordle* dictionary download, dictionary utility, and strategy tester for human-style game play (computers play differently<sup>a</sup>).
 
 ## Wordle Strategy
 
